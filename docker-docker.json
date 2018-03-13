@@ -15,6 +15,11 @@
     "color": "e11d21"
   },
   {
+    "url": "https://api.github.com/repos/docker/docker/labels/area/docs",
+    "name": "area/docs",
+    "color": "e11d21"
+  },
+  {
     "url": "https://api.github.com/repos/docker/docker/labels/area/kernel",
     "name": "area/kernel",
     "color": "E3ACEF"
@@ -27,6 +32,16 @@
   {
     "url": "https://api.github.com/repos/docker/docker/labels/area/runtime",
     "name": "area/runtime",
+    "color": "e11d21"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/area/stacks",
+    "name": "area/stacks",
+    "color": "e11d21"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/area/testing",
+    "name": "area/testing",
     "color": "e11d21"
   },
   {
@@ -245,6 +260,11 @@
     "color": "5319e7"
   },
   {
+    "url": "https://api.github.com/repos/docker/docker/labels/status/accepted",
+    "name": "status/accepted",
+    "color": "c2e0c6"
+  },
+  {
     "url": "https://api.github.com/repos/docker/docker/labels/status/claimed",
     "name": "status/claimed",
     "color": "fef2c0"
@@ -255,13 +275,63 @@
     "color": "C6A49A"
   },
   {
+    "url": "https://api.github.com/repos/docker/docker/labels/status/confirmed",
+    "name": "status/confirmed",
+    "color": "c2e0c6"
+  },
+  {
     "url": "https://api.github.com/repos/docker/docker/labels/status/needs-attention",
     "name": "status/needs-attention",
     "color": "e11d21"
   },
   {
+    "url": "https://api.github.com/repos/docker/docker/labels/status/needs-upstreaming",
+    "name": "status/needs-upstreaming",
+    "color": "a98bf3"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/status/upstreamed",
+    "name": "status/upstreamed",
+    "color": "bfe5bf"
+  },
+  {
     "url": "https://api.github.com/repos/docker/docker/labels/system/systemd",
     "name": "system/systemd",
     "color": "fbca04"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/platform/arm",
+    "name": "platform/windows",
+    "color": "f6fbff"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/platform/desktop",
+    "name": "platform/windows",
+    "color": "f6fbff"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/platform/freebsd",
+    "name": "platform/windows",
+    "color": "f6fbff"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/platform/ibm-power",
+    "name": "platform/windows",
+    "color": "f6fbff"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/platform/ibm-z",
+    "name": "platform/windows",
+    "color": "f6fbff"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/platform/mac",
+    "name": "platform/windows",
+    "color": "f6fbff"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/platform/windows",
+    "name": "platform/windows",
+    "color": "f6fbff"
   }
 ]
